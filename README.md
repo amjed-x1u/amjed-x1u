@@ -1,6 +1,6 @@
-# 👋 Hey, I'm **Amjed Ayad** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px">
+# &#x20;Hey, I'm **Amjed **<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px">
 
-<h1>Welcome to my GitHub Profile 🚀</h1>
+<h1> Welcome to my humble abode in the Digital World </h1>
 
 <p>
 I'm a Computer Science student passionate about building the future with <b>Artificial Intelligence</b>, <b>Machine Learning</b>, and <b>Robotics</b>. Every project I build is another step toward becoming an AI Engineer capable of creating intelligent systems that solve real-world problems.
@@ -10,28 +10,20 @@ I'm a Computer Science student passionate about building the future with <b>Arti
 
 ---
 
-## 🌍 About Me
-
-* 🎓 Computer Science Student
-* 🤖 Future AI & Robotics Engineer
-* 🐍 Currently mastering Python
-* 💻 Strong foundation in C Programming
-* 📚 Learning Computer Science one project at a time
-* 🎯 Goal: Build intelligent robots and AI systems
-* 🌱 Learning something new every day
+##
 
 ---
 
-## 🚀 Current Learning Journey
+## Current Works
 
 ```text
-Python ██████████░░░░░░░
-Data Structures ███████░░░░░░░░
-Algorithms ██████░░░░░░░░░░
-Object-Oriented Programming █████░░░░░░░░░
-Machine Learning ░░░░░░░░░░░░░░
-Deep Learning ░░░░░░░░░░░░░░░
-Robotics ░░░░░░░░░░░░░░░░
+Python 
+Data Structures
+Algorithms 
+Object-Oriented Programming
+Machine Learning
+Deep Learning
+Robotics 
 ```
 
 ---
@@ -50,7 +42,7 @@ Robotics ░░░░░░░░░░░░░░░░
 
 ---
 
-# 🛠 Technologies I'm Learning
+#  Technologies I'm Learning
 
 * Git
 * GitHub
@@ -71,7 +63,7 @@ Robotics ░░░░░░░░░░░░░░░░
 
 ---
 
-# 🧠 Areas of Interest
+#  Areas of Interest
 
 * Artificial Intelligence
 * Machine Learning
@@ -81,43 +73,25 @@ Robotics ░░░░░░░░░░░░░░░░
 * Automation
 * Algorithms
 * Data Structures
-* Problem Solving
-
----
-
-# 📚 Current Goals
-
-* ✅ Master Python
-* ✅ Improve Problem Solving
-* 🔄 Build Python Projects
-* 🔄 Learn Object-Oriented Programming
-* 🔄 Learn Data Structures & Algorithms
-* ⏳ Learn Machine Learning
-* ⏳ Learn Deep Learning
-* ⏳ Build AI Applications
-* ⏳ Build Intelligent Robots
-
----
-
-# ⚡ My Coding Philosophy
-
-> "Don't just learn syntax. Understand how computers think."
 
 I believe consistency beats motivation.
+
 Every small project teaches something valuable.
 
 ---
 
-# 👨‍💻 Who Am I?
+#  Who Am I?
 
 ```python
-class AmjedAyad:
-
-    def __init__(self):
-        self.name = "Amjed Ayad"
-        self.role = "Computer Science Student"
-        self.location = "Algeria"
-
+class WhoAmI:
+	user = 'Ayad Amjed'
+   	current_work = 'Writing code'
+   	hobbies = [
+   			'Sports',
+   			'Watching Movies',
+   			'Reading Books',
+   			'Being up all Night chasing that ONE BUG...'
+   		]
         self.languages = [
             "Python",
             "C"
@@ -126,9 +100,7 @@ class AmjedAyad:
         self.interests = [
             "Artificial Intelligence",
             "Machine Learning",
-            "Robotics",
-            "Algorithms",
-            "Problem Solving"
+            "Robotics"
         ]
 
         self.current_goal = "Become an AI Engineer"
@@ -136,14 +108,6 @@ class AmjedAyad:
     def daily_mission(self):
         return "Learn • Build • Improve • Repeat"
 
-    def future(self):
-        return [
-            "Machine Learning",
-            "Deep Learning",
-            "Computer Vision",
-            "Robotics",
-            "Large Language Models"
-        ]
 ```
 
 ---
@@ -153,53 +117,15 @@ class AmjedAyad:
 Replace **YOUR_USERNAME** with your GitHub username.
 
 ```md
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amjed-x1u&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amjed-x1u&layout=compact)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME)
+![GitHub Streak](https://streak-stats.demolab.com/?user=amjed-x1u)
 ```
 
----
+#
 
-# 📂 Featured Projects
-
-Here I'll showcase my best projects as I continue learning.
-
-* 🐍 Python Projects
-* ⚙️ Automation Scripts
-* 🧠 AI Projects
-* 🤖 Robotics Projects
-* 📊 Data Analysis Projects
+#
 
 ---
-
-# 🎯 2026 Goals
-
-* Finish Python Mastery
-* Build 30+ Python Projects
-* Learn Data Structures & Algorithms
-* Learn Machine Learning
-* Contribute to Open Source
-* Build my first AI application
-* Build my first robotics project
-
----
-
-# 📖 Favorite Quote
-
-> "Success is the sum of small efforts, repeated day in and day out."
-
----
-
-# 🌍 Connect With Me
-
-* GitHub: https://github.com/YOUR_USERNAME
-* LinkedIn: Coming Soon
-* Portfolio: Coming Soon
-
----
-
-⭐ Thanks for visiting my profile!
-
-If you like my projects, consider giving them a ⭐.
