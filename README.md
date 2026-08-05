@@ -1,131 +1,68 @@
-# &#x20;Hey, I'm **Amjed **<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px">
+## Hey, [AMJED here!] width="28px" height="28px">
 
-<h1> Welcome to my humble abode in the Digital World </h1>
+<h1>Welcome to my humble abode in the Digital World..</h1> 
 
 <p>
 I'm a Computer Science student passionate about building the future with <b>Artificial Intelligence</b>, <b>Machine Learning</b>, and <b>Robotics</b>. Every project I build is another step toward becoming an AI Engineer capable of creating intelligent systems that solve real-world problems.
 </p>
 
-<img src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif" align="right" width="350"/>
+<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
 
----
+[![Linkedin Badge](https://img.shields.io/badge/-haanyali-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/haany-ali)](https://www.linkedin.com/in/haany-ali) [![Gmail Badge](https://img.shields.io/badge/-asterp04@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:asterp04@gmail.com)](mailto:asterp04@gmail.com) [![Youtube Channel](https://img.shields.io/badge/-The%20Broke%20Coder-c14438?style=flat-square&logo=Youtube&link=https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA)](https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MarikIshtar007" alt="MarikIshtar007" /> </p>
 
-##
+<div style="text-align: right">There are 10 types of people in the world. Those who get Binary and those who don't.. </div>
 
----
-
-## Current Works
-
-```text
-Python 
-Data Structures
-Algorithms 
-Object-Oriented Programming
+## :computer: Technologies I Love
+Artificial Intelligence
 Machine Learning
 Deep Learning
-Robotics 
-```
+Robotics
+Computer Vision
+Automation
+Algorithms
+Data Structures
 
----
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MarikIshtar007&layout=compact">
 
-# 💻 Programming Languages
+## Programming Languages
+<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c-original.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/> <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/java.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/kotlin.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/bootstrap.svg' width='33'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/dart.svg' width='33'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/php.svg' width='40'/>
+ <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='30'/> 
+ 
+ ## Technologies I Use
+ <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/pycharm.svg' width='30'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/android.svg' height='40'/><img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/flutter-logo.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/django.svg' height='40'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/flask.png' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/nodejs.svg' width='33'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/react.svg' width='33'/>
+ 
+ ## Who am I?
+ ```python
+ class WhoAmI:
+ 	user = 'Haany Ali'
+		current_work = 'Writing code'
+		hobbies = [
+				'Drawing',
+				'Watching Anime',
+				'Reading Sci-Fi Novels'
+				'Being up all Night chasing that ONE BUG...'
+			]
+	
+	def getCity():
+		return Vancouver_Canada()
+	
+	def Ambitions():
+		LearnJapanese()
+		CreateSkyNet()
+		FinishMyNovel()
+		# Assume 10 more awesome ambitions here  ;)
+	
+ ```
+ 
+## Current Works
+ * Breaking into Cybersec !!
+ * I'm currently working on 🔭 building **Mobile Apps using Flutter** and working up on polishing my skills 🌱 in **Competitive Programming**.
+ 
+## Other Stuff
+  - :octocat: [My Resume](https://drive.google.com/file/d/1tFL1gHFPw3MXzfW98oQEFjs2jQSGiVjw/view?usp=share_link)
+  - If you have any suggestions to this README, feel free to pull up a request. And if you liked it, go ahead and use it for yourself.(P.S. Star it too!! :grimacing: )
 
-* C
-* Python
-
-### Languages I Plan to Learn
-
-* SQL
-* JavaScript
-* C++
-* Bash
-
----
-
-#  Technologies I'm Learning
-
-* Git
-* GitHub
-* VS Code
-* Linux
-* Python Standard Library
-
-### Future Technologies
-
-* NumPy
-* Pandas
-* Matplotlib
-* Scikit-Learn
-* TensorFlow
-* PyTorch
-* OpenCV
-* ROS (Robot Operating System)
-
----
-
-#  Areas of Interest
-
-* Artificial Intelligence
-* Machine Learning
-* Deep Learning
-* Robotics
-* Computer Vision
-* Automation
-* Algorithms
-* Data Structures
-
-I believe consistency beats motivation.
-
-Every small project teaches something valuable.
-
----
-
-#  Who Am I?
-
-```python
-class WhoAmI:
-	user = 'Ayad Amjed'
-   	current_work = 'Writing code'
-   	hobbies = [
-   			'Sports',
-   			'Watching Movies',
-   			'Reading Books',
-   			'Being up all Night chasing that ONE BUG...'
-   		]
-        self.languages = [
-            "Python",
-            "C"
-        ]
-
-        self.interests = [
-            "Artificial Intelligence",
-            "Machine Learning",
-            "Robotics"
-        ]
-
-        self.current_goal = "Become an AI Engineer"
-
-    def daily_mission(self):
-        return "Learn • Build • Improve • Repeat"
-
-```
-
----
-
-# 📈 GitHub Statistics
-
-Replace **YOUR_USERNAME** with your GitHub username.
-
-```md
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amjed-x1u&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amjed-x1u&layout=compact)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=amjed-x1u)
-```
-
-#
-
-#
-
----
+![Haany's github stats](https://github-readme-stats.vercel.app/api?username=MarikIshtar007&show_icons=true&hide=[%22issues%22])
+ 
+ 
