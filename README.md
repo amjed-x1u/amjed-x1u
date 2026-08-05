@@ -6,7 +6,7 @@
 I'm a Computer Science student passionate about building the future with <b>Artificial Intelligence</b>, <b>Machine Learning</b>, and <b>Robotics</b>. Every project I build is another step toward becoming an AI Engineer capable of creating intelligent systems that solve real-world problems.
 </p>
 
-<img src="https://raw.githubusercontent.com/amjed-x1u/amjed-x1u/main/profile.png"
+<img src="https://avatars.githubusercontent.com/u/276271988?v=4"
      alt="AYAD AMJED"
      align="right"
      width="250"/>
