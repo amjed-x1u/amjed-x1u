@@ -6,7 +6,10 @@
 I'm a Computer Science student passionate about building the future with <b>Artificial Intelligence</b>, <b>Machine Learning</b>, and <b>Robotics</b>. Every project I build is another step toward becoming an AI Engineer capable of creating intelligent systems that solve real-world problems.
 </p>
 
-<img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt='Awesome Matrix Code' align='right'/>
+<img src="https://raw.githubusercontent.com/amjed-x1u/amjed-x1u/main/profile.png"
+     alt="AYAD AMJED"
+     align="right"
+     width="250"/>
 
 [![Gmail Badge](https://img.shields.io/badge/-amjedxai00@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:amjedxai00@gmail.com)](mailto:amjedxai00@gmail.com)
 [![Youtube Channel](https://img.shields.io/badge/-Ixxevo-c14438?style=flat-square&logo=Youtube&link=http://www.youtube.com/@Ixxevo)](http://www.youtube.com/@Ixxevo)
