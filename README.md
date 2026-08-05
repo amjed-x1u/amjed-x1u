@@ -39,14 +39,14 @@ There are 10 types of people in the world. Those who get Binary and those who do
 
 ## Programming Languages
 
-<img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c-original.svg' width='30'/>
-<img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30"/>
 
 ## Technologies I Use
 
-<img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='30'/>
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg' width='30'/>
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg' width='30'/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30"/>
 ## Who am I?
 
 ```python
