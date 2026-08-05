@@ -8,7 +8,7 @@ I'm a Computer Science student passionate about building the future with <b>Arti
 
 <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt='Awesome Matrix Code' align='right'/>
 
-[![Gmail Badge](https://img.shields.io/badge/-ayad17407@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ayad17407@gmail.com)](mailto:ayad17407@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-amjedxai00@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:amjedxai00@gmail.com)](mailto:amjedxai00@gmail.com)
 [![Youtube Channel](https://img.shields.io/badge/-Ixxevo-c14438?style=flat-square&logo=Youtube&link=http://www.youtube.com/@Ixxevo)](http://www.youtube.com/@Ixxevo)
 
 <p align="left">
