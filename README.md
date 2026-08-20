@@ -52,7 +52,7 @@ There are 10 types of people in the world. Those who get Binary and those who do
 
 ```python
 class WhoAmI:
-    user = "AYAD AMJED"
+    user = "AMJED"
     current_work = "Writing code"
 
     hobbies = [
