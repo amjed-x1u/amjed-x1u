@@ -74,6 +74,6 @@ class WhoAmI:
 
 ## Other Stuff
 
-- If you have any suggestions to this README, feel free to pull up a request. And if you liked it, go ahead and use it for yourself. (P.S. Star it too!! 😁)
+- If you have any suggestions to this README, feel free to pull up a request. And if you liked it, go ahead and use it for yourself. (P.S. Star it too!! )
 
 ![Amjed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amjed-x1u&show_icons=true&hide=["issues"])
